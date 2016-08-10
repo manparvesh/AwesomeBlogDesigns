@@ -1,5 +1,5 @@
 # Awesome Blog Designs [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-> A curated list of awesome blog sites for inspiration and comparison
+> A curated list of awesome blog sites for inspiration and comparison  
 > Based on the [Awesome](https://github.com/sindresorhus/awesome) project
 
 I am preparing this list, with the help of the open source community, for those seeking design ideas for the design of their personal blogs based on different technologies. I hope this will be helpful.
@@ -8,7 +8,7 @@ The links mentioned in this list are obtained from random searches on the intern
 
 -
 
-**Check out my [website](http://manparvesh.github.io/) or say *hi* on [Facebook](https://www.facebook.com/manparvesh).**
+**Check out my [website :globe_with_meridians:](http://manparvesh.github.io/) or say *hi* on [Facebook](https://www.facebook.com/manparvesh).**
 
 # Contributing
 Please refer to the [contributing guidelines](https://github.com/manparvesh/AwesomeBlogDesigns/blob/master/CONTRIBUTING.md).  
